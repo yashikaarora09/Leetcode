@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/yashikaarora09/Leetcode/tree/master/0146-lru-cache) |
+| [0888-fair-candy-swap](https://github.com/yashikaarora09/Leetcode/tree/master/0888-fair-candy-swap) |
 ## Linked List
 |  |
 | ------- |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0888-fair-candy-swap](https://github.com/yashikaarora09/Leetcode/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/yashikaarora09/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [1833-maximum-ice-cream-bars](https://github.com/yashikaarora09/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 ## Greedy
@@ -31,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0888-fair-candy-swap](https://github.com/yashikaarora09/Leetcode/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/yashikaarora09/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [1833-maximum-ice-cream-bars](https://github.com/yashikaarora09/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 ## Counting Sort
@@ -41,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0905-sort-array-by-parity](https://github.com/yashikaarora09/Leetcode/tree/master/0905-sort-array-by-parity) |
+## Binary Search
+|  |
+| ------- |
+| [0888-fair-candy-swap](https://github.com/yashikaarora09/Leetcode/tree/master/0888-fair-candy-swap) |
 <!---LeetCode Topics End-->
