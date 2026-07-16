@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/yashikaarora09/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0146-lru-cache](https://github.com/yashikaarora09/Leetcode/tree/master/0146-lru-cache) |
 ## Design
 |  |
@@ -61,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/yashikaarora09/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/yashikaarora09/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
