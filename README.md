@@ -66,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/yashikaarora09/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0476-number-complement](https://github.com/yashikaarora09/Leetcode/tree/master/0476-number-complement) |
 <!---LeetCode Topics End-->
