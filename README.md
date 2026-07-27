@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/yashikaarora09/Leetcode/tree/master/0006-zigzag-conversion) |
+| [1021-remove-outermost-parentheses](https://github.com/yashikaarora09/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/yashikaarora09/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Prefix Sum
 |  |
@@ -73,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0476-number-complement](https://github.com/yashikaarora09/Leetcode/tree/master/0476-number-complement) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/yashikaarora09/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/yashikaarora09/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
