@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0057-insert-interval](https://github.com/yashikaarora09/Leetcode/tree/master/0057-insert-interval) |
 | [0888-fair-candy-swap](https://github.com/yashikaarora09/Leetcode/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/yashikaarora09/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [1833-maximum-ice-cream-bars](https://github.com/yashikaarora09/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
