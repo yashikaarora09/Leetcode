@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0146-lru-cache](https://github.com/yashikaarora09/Leetcode/tree/master/0146-lru-cache) |
 | [0888-fair-candy-swap](https://github.com/yashikaarora09/Leetcode/tree/master/0888-fair-candy-swap) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/yashikaarora09/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Linked List
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0006-zigzag-conversion](https://github.com/yashikaarora09/Leetcode/tree/master/0006-zigzag-conversion) |
 | [1021-remove-outermost-parentheses](https://github.com/yashikaarora09/Leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/yashikaarora09/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/yashikaarora09/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Prefix Sum
 |  |
@@ -111,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/yashikaarora09/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+## Sliding Window
+|  |
+| ------- |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/yashikaarora09/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 <!---LeetCode Topics End-->
