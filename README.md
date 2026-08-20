@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0877-stone-game](https://github.com/yashikaarora09/Leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/yashikaarora09/Leetcode/tree/master/1140-stone-game-ii) |
+| [1175-prime-arrangements](https://github.com/yashikaarora09/Leetcode/tree/master/1175-prime-arrangements) |
 | [2029-stone-game-ix](https://github.com/yashikaarora09/Leetcode/tree/master/2029-stone-game-ix) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/yashikaarora09/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/yashikaarora09/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -128,4 +129,16 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/yashikaarora09/Leetcode/tree/master/2029-stone-game-ix) |
+## Primality Test
+|  |
+| ------- |
+| [1175-prime-arrangements](https://github.com/yashikaarora09/Leetcode/tree/master/1175-prime-arrangements) |
+## Sieve Theory
+|  |
+| ------- |
+| [1175-prime-arrangements](https://github.com/yashikaarora09/Leetcode/tree/master/1175-prime-arrangements) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [1175-prime-arrangements](https://github.com/yashikaarora09/Leetcode/tree/master/1175-prime-arrangements) |
 <!---LeetCode Topics End-->
