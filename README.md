@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0146-lru-cache](https://github.com/yashikaarora09/Leetcode/tree/master/0146-lru-cache) |
 | [0888-fair-candy-swap](https://github.com/yashikaarora09/Leetcode/tree/master/0888-fair-candy-swap) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/yashikaarora09/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/yashikaarora09/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Linked List
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1833-maximum-ice-cream-bars](https://github.com/yashikaarora09/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2029-stone-game-ix](https://github.com/yashikaarora09/Leetcode/tree/master/2029-stone-game-ix) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/yashikaarora09/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/yashikaarora09/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Greedy
 |  |
 | ------- |
