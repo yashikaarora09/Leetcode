@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0024-swap-nodes-in-pairs](https://github.com/yashikaarora09/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/yashikaarora09/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0146-lru-cache](https://github.com/yashikaarora09/Leetcode/tree/master/0146-lru-cache) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/yashikaarora09/Leetcode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Design
 |  |
 | ------- |
