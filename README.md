@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0006-zigzag-conversion](https://github.com/yashikaarora09/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0038-count-and-say](https://github.com/yashikaarora09/Leetcode/tree/master/0038-count-and-say) |
+| [0940-distinct-subsequences-ii](https://github.com/yashikaarora09/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/yashikaarora09/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/yashikaarora09/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/yashikaarora09/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/yashikaarora09/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0877-stone-game](https://github.com/yashikaarora09/Leetcode/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/yashikaarora09/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/yashikaarora09/Leetcode/tree/master/1140-stone-game-ii) |
 ## Minimax
 |  |
