@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/yashikaarora09/Leetcode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/yashikaarora09/Leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/yashikaarora09/Leetcode/tree/master/1140-stone-game-ii) |
 | [1175-prime-arrangements](https://github.com/yashikaarora09/Leetcode/tree/master/1175-prime-arrangements) |
@@ -176,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/yashikaarora09/Leetcode/tree/master/0835-image-overlap) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/yashikaarora09/Leetcode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
