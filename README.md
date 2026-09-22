@@ -169,14 +169,17 @@ A collection of LeetCode questions to ace the coding interview!
 ## Tree
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/yashikaarora09/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/yashikaarora09/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/yashikaarora09/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/yashikaarora09/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/yashikaarora09/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/yashikaarora09/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Matrix
 |  |
@@ -186,4 +189,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/yashikaarora09/Leetcode/tree/master/0836-rectangle-overlap) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/yashikaarora09/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 <!---LeetCode Topics End-->
