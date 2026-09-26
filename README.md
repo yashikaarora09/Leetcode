@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0877-stone-game](https://github.com/yashikaarora09/Leetcode/tree/master/0877-stone-game) |
 | [0888-fair-candy-swap](https://github.com/yashikaarora09/Leetcode/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/yashikaarora09/Leetcode/tree/master/0905-sort-array-by-parity) |
+| [0999-available-captures-for-rook](https://github.com/yashikaarora09/Leetcode/tree/master/0999-available-captures-for-rook) |
 | [1140-stone-game-ii](https://github.com/yashikaarora09/Leetcode/tree/master/1140-stone-game-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/yashikaarora09/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1833-maximum-ice-cream-bars](https://github.com/yashikaarora09/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/yashikaarora09/Leetcode/tree/master/0835-image-overlap) |
+| [0999-available-captures-for-rook](https://github.com/yashikaarora09/Leetcode/tree/master/0999-available-captures-for-rook) |
 ## Geometry
 |  |
 | ------- |
@@ -193,4 +195,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/yashikaarora09/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Simulation
+|  |
+| ------- |
+| [0999-available-captures-for-rook](https://github.com/yashikaarora09/Leetcode/tree/master/0999-available-captures-for-rook) |
 <!---LeetCode Topics End-->
