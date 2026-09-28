@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/yashikaarora09/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0905-sort-array-by-parity](https://github.com/yashikaarora09/Leetcode/tree/master/0905-sort-array-by-parity) |
+| [0925-long-pressed-name](https://github.com/yashikaarora09/Leetcode/tree/master/0925-long-pressed-name) |
 ## Binary Search
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0006-zigzag-conversion](https://github.com/yashikaarora09/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0038-count-and-say](https://github.com/yashikaarora09/Leetcode/tree/master/0038-count-and-say) |
+| [0925-long-pressed-name](https://github.com/yashikaarora09/Leetcode/tree/master/0925-long-pressed-name) |
 | [0940-distinct-subsequences-ii](https://github.com/yashikaarora09/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/yashikaarora09/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/yashikaarora09/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
