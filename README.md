@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/yashikaarora09/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1833-maximum-ice-cream-bars](https://github.com/yashikaarora09/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2029-stone-game-ix](https://github.com/yashikaarora09/Leetcode/tree/master/2029-stone-game-ix) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/yashikaarora09/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/yashikaarora09/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/yashikaarora09/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/yashikaarora09/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0940-distinct-subsequences-ii](https://github.com/yashikaarora09/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/yashikaarora09/Leetcode/tree/master/1140-stone-game-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/yashikaarora09/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/yashikaarora09/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Minimax
 |  |
 | ------- |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0835-image-overlap](https://github.com/yashikaarora09/Leetcode/tree/master/0835-image-overlap) |
 | [0999-available-captures-for-rook](https://github.com/yashikaarora09/Leetcode/tree/master/0999-available-captures-for-rook) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/yashikaarora09/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Geometry
 |  |
 | ------- |
@@ -201,4 +204,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0999-available-captures-for-rook](https://github.com/yashikaarora09/Leetcode/tree/master/0999-available-captures-for-rook) |
+## Bracket Sequences
+|  |
+| ------- |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/yashikaarora09/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
