@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/yashikaarora09/Leetcode/tree/master/0006-zigzag-conversion) |
+| [0020-valid-parentheses](https://github.com/yashikaarora09/Leetcode/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/yashikaarora09/Leetcode/tree/master/0038-count-and-say) |
 | [0925-long-pressed-name](https://github.com/yashikaarora09/Leetcode/tree/master/0925-long-pressed-name) |
 | [0940-distinct-subsequences-ii](https://github.com/yashikaarora09/Leetcode/tree/master/0940-distinct-subsequences-ii) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/yashikaarora09/Leetcode/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/yashikaarora09/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 ## Dynamic Programming
 |  |
@@ -207,5 +209,6 @@ A collection of LeetCode questions to ace the coding interview!
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/yashikaarora09/Leetcode/tree/master/0020-valid-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/yashikaarora09/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
