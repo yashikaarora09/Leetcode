@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0678-valid-parenthesis-string](https://github.com/yashikaarora09/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1833-maximum-ice-cream-bars](https://github.com/yashikaarora09/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2029-stone-game-ix](https://github.com/yashikaarora09/Leetcode/tree/master/2029-stone-game-ix) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/yashikaarora09/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/yashikaarora09/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Sorting
 |  |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1175-prime-arrangements](https://github.com/yashikaarora09/Leetcode/tree/master/1175-prime-arrangements) |
 | [2029-stone-game-ix](https://github.com/yashikaarora09/Leetcode/tree/master/2029-stone-game-ix) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/yashikaarora09/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/yashikaarora09/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/yashikaarora09/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## String
 |  |
