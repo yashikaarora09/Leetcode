@@ -189,16 +189,19 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/yashikaarora09/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0655-print-binary-tree](https://github.com/yashikaarora09/Leetcode/tree/master/0655-print-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/yashikaarora09/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/yashikaarora09/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0655-print-binary-tree](https://github.com/yashikaarora09/Leetcode/tree/master/0655-print-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/yashikaarora09/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/yashikaarora09/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0655-print-binary-tree](https://github.com/yashikaarora09/Leetcode/tree/master/0655-print-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/yashikaarora09/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Matrix
 |  |
@@ -229,4 +232,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/yashikaarora09/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0655-print-binary-tree](https://github.com/yashikaarora09/Leetcode/tree/master/0655-print-binary-tree) |
 <!---LeetCode Topics End-->
