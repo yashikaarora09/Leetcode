@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0057-insert-interval](https://github.com/yashikaarora09/Leetcode/tree/master/0057-insert-interval) |
+| [0152-maximum-product-subarray](https://github.com/yashikaarora09/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/yashikaarora09/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0835-image-overlap](https://github.com/yashikaarora09/Leetcode/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/yashikaarora09/Leetcode/tree/master/0877-stone-game) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0152-maximum-product-subarray](https://github.com/yashikaarora09/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/yashikaarora09/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/yashikaarora09/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/yashikaarora09/Leetcode/tree/master/0877-stone-game) |
