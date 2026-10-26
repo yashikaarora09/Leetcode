@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0057-insert-interval](https://github.com/yashikaarora09/Leetcode/tree/master/0057-insert-interval) |
 | [0152-maximum-product-subarray](https://github.com/yashikaarora09/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/yashikaarora09/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0300-longest-increasing-subsequence](https://github.com/yashikaarora09/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0835-image-overlap](https://github.com/yashikaarora09/Leetcode/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/yashikaarora09/Leetcode/tree/master/0877-stone-game) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/yashikaarora09/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0300-longest-increasing-subsequence](https://github.com/yashikaarora09/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0888-fair-candy-swap](https://github.com/yashikaarora09/Leetcode/tree/master/0888-fair-candy-swap) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/yashikaarora09/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
