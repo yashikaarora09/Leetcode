@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1140-stone-game-ii](https://github.com/yashikaarora09/Leetcode/tree/master/1140-stone-game-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/yashikaarora09/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1833-maximum-ice-cream-bars](https://github.com/yashikaarora09/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [1882-process-tasks-using-servers](https://github.com/yashikaarora09/Leetcode/tree/master/1882-process-tasks-using-servers) |
 | [2029-stone-game-ix](https://github.com/yashikaarora09/Leetcode/tree/master/2029-stone-game-ix) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/yashikaarora09/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/yashikaarora09/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -246,4 +247,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0655-print-binary-tree](https://github.com/yashikaarora09/Leetcode/tree/master/0655-print-binary-tree) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1882-process-tasks-using-servers](https://github.com/yashikaarora09/Leetcode/tree/master/1882-process-tasks-using-servers) |
 <!---LeetCode Topics End-->
