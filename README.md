@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1882-process-tasks-using-servers](https://github.com/yashikaarora09/Leetcode/tree/master/1882-process-tasks-using-servers) |
 | [2029-stone-game-ix](https://github.com/yashikaarora09/Leetcode/tree/master/2029-stone-game-ix) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/yashikaarora09/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/yashikaarora09/Leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/yashikaarora09/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/yashikaarora09/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/yashikaarora09/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1140-stone-game-ii](https://github.com/yashikaarora09/Leetcode/tree/master/1140-stone-game-ii) |
 | [1175-prime-arrangements](https://github.com/yashikaarora09/Leetcode/tree/master/1175-prime-arrangements) |
 | [2029-stone-game-ix](https://github.com/yashikaarora09/Leetcode/tree/master/2029-stone-game-ix) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/yashikaarora09/Leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/yashikaarora09/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/yashikaarora09/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/yashikaarora09/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
