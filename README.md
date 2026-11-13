@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2348-number-of-zero-filled-subarrays](https://github.com/yashikaarora09/Leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/yashikaarora09/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/yashikaarora09/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/yashikaarora09/Leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/yashikaarora09/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/yashikaarora09/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/yashikaarora09/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0678-valid-parenthesis-string](https://github.com/yashikaarora09/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/yashikaarora09/Leetcode/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/yashikaarora09/Leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/yashikaarora09/Leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/yashikaarora09/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/yashikaarora09/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/yashikaarora09/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/yashikaarora09/Leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Nim Game
 |  |
 | ------- |
@@ -253,4 +256,20 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1882-process-tasks-using-servers](https://github.com/yashikaarora09/Leetcode/tree/master/1882-process-tasks-using-servers) |
+## Segment Tree
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/yashikaarora09/Leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/yashikaarora09/Leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Monotonic Stack
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/yashikaarora09/Leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Monotonic Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/yashikaarora09/Leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 <!---LeetCode Topics End-->
