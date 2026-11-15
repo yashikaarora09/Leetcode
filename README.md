@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2348-number-of-zero-filled-subarrays](https://github.com/yashikaarora09/Leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/yashikaarora09/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/yashikaarora09/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3364-minimum-positive-sum-subarray](https://github.com/yashikaarora09/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/yashikaarora09/Leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/yashikaarora09/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/yashikaarora09/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/yashikaarora09/Leetcode/tree/master/1140-stone-game-ii) |
+| [3364-minimum-positive-sum-subarray](https://github.com/yashikaarora09/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/yashikaarora09/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3903-smallest-stable-index-i](https://github.com/yashikaarora09/Leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Recursion
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/yashikaarora09/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/yashikaarora09/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/yashikaarora09/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3364-minimum-positive-sum-subarray](https://github.com/yashikaarora09/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/yashikaarora09/Leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Nim Game
 |  |
